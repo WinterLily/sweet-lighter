@@ -2,6 +2,7 @@
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Sweet Lighter",
   "author": "WinterWonders",
+  "description": "A lighter version of the Sweet theme by EliverLara for VSCode (https://github.com/EliverLara/sweet-vscode), with some transparency effects and changes to make it a little friendlier to lower-color-gamut displays Find it on GitHub here: https://github.com/WinterLily/sweet-lighter.",
   "themes": [
     {
       "name": "Sweet Lighter",
